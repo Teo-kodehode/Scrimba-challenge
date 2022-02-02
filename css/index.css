@@ -1,0 +1,79 @@
+body{
+    margin:0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    background-color: #281b2d;
+    color: #fff;
+    font-size: 72px;
+    margin:0px;
+    text-align: center;
+    padding: 25px 0px;
+}
+
+
+
+.subheader{
+    font-size: 48px;
+    color: #FCD801;
+    background-color: #281B2D;
+    border-bottom:solid 6px #00C54C;
+    padding: 20px;
+}
+
+.accent{
+    color:#FFF;
+}
+
+.container{
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.columns{
+    display: flex;
+}
+
+.main-content{
+    width: 65%;
+    margin-right: 5%;
+}
+
+.sidebar {
+    width: 30%;
+    background-color: #9AE84F;
+    padding:20px;
+    margin-top:40px;
+    box-shadow: 2px 2px 2px 2px black;
+}
+
+li{
+    line-height: 1.8;
+}
+
+#bestpet{
+    margin:0px;
+}
+
+.textbox {
+    margin-top:0px;
+    padding:0px 20px;
+}
+
+p{
+    margin:0px;
+}
+
+a{
+    color: #9138B7;
+}
+
+a:hover{
+    color:#281b2d;
+}
+
+.source{
+font-size: 12px;
+}

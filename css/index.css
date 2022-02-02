@@ -46,7 +46,7 @@ h1{
     background-color: #9AE84F;
     padding:20px;
     margin-top:40px;
-    box-shadow: 2px 2px 2px 2px black;
+    box-shadow: 1px 1px 20px 3px lightgray, -1px -1px 20px 3px lightgray;
 }
 
 li{
